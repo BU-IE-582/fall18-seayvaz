@@ -6,4 +6,4 @@
 
 ## Week 3 (October 18)
 
-[Here](files/582assignment1.html) is my 1st homework assignment
+[Here](582assignment1.html) is my 1st homework assignment
