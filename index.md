@@ -15,3 +15,7 @@
 ## Week 9 (November 19)
 
 [Here](hw3_582_rmarkdown.html) is my 3rd homework assignment
+
+## Week 14 (December 19)
+
+[Here](hw4_582.html) is my 4th homework assignment
