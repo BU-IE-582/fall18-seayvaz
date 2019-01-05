@@ -19,3 +19,7 @@
 ## Week 14 (December 19)
 
 [Here](files/hw4_582.html) is my 4th homework assignment
+
+## Week 16 (January 5)
+
+[Here](582ProjectFinal.html) is our project assignment
