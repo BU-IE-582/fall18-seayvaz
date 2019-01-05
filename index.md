@@ -23,4 +23,4 @@
 ## Week 16 (January 5)
 
 [Here](582ProjectFinal.html) is our project assignment
-and [Here](582ProjectCode.r) is our project code
+and [Here](582ProjectCode.R) is our project code
