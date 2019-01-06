@@ -20,7 +20,9 @@
 
 [Here](files/hw4_582.html) is my 4th homework assignment
 
-## Week 16 (January 5)
+## Week 16 (January 7)
+[Here](582_hw5.html) is my 5th homework assignment
 
+## Week 16 (January 7)
 [Here](582ProjectFinal.html) is our project assignment
 and [Here](582ProjectCode.R) is our project code
